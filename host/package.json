@@ -1,0 +1,23 @@
+{
+  "name": "sophon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github-partner.azc.ext.hp.com/santino-wang/Sophon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "latest",
+    "i2c": "latest",
+    "lcdi2c": "latest",
+    "request": "latest",
+    "request-promise": "latest",
+    "should": "latest"
+  }
+}
